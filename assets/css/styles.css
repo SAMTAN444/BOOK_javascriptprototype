@@ -59,15 +59,15 @@ header {
     top: 0;
     display: grid;
     align-items: center;
-    padding-left: 15px;
+    padding-left: 50px;
 
     -webkit-box-shadow:  0 1px 30px rgba(0, 0, 0, 0.5);
     box-shadow: 0 1px 30px rgba(0, 0, 0, 0.5);
 }
 header > .logo {
   position: absolute;
-  margin: 0 0 1em 9.1em;
-  width: 25px;
+  margin: 0 0 0em 9.1em;
+  width: 30px;
 }
 
 /*
